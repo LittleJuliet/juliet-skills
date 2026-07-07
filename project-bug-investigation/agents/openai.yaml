@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Bug Investigation"
+  short_description: "Investigate project bugs to root cause"
+  default_prompt: "Use $project-bug-investigation to investigate this project issue until the root cause is clear."
