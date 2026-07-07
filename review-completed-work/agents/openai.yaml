@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Completed Work"
+  short_description: "Review completed changes against requirements and standards"
+  default_prompt: "Use $review-completed-work to review a completed requirement or bug fix."
