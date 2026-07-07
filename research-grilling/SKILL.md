@@ -67,7 +67,7 @@ description: Use when a user brings a requirement, idea, product change, code ch
 
 8. **收尾**
    - 告知需求文档路径。
-   - 只提示可以进入下一阶段，例如 `$writing-plans`。
+   - 只提示可以进入下一阶段。
    - 不自动调用下一阶段，也不开始实施。
 
 ## 提问格式

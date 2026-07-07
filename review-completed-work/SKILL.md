@@ -38,7 +38,7 @@ description: Use after a requirement, idea, task, feature, bug fix, or issue inv
 
 5. **聚合结果**
    - findings first，按 severity 排序。
-   - 不自动修复 review 建议；用户要求修复时，再按 `receiving-code-review` 的方式逐条验证后处理。
+   - 不自动修复 review 建议。
 
 ## Subagent Prompts
 
