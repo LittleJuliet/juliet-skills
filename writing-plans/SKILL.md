@@ -13,7 +13,7 @@ Assume they are a skilled developer, but know almost nothing about our toolset o
 
 **Announce at start:** "I'm using the writing-plans skill to create the implementation plan."
 
-**Save plans to:** `<root-dir>/<feature-name>/plan.md`
+**Save plans to:** `<root-dir>/docs/<feature-name>/plan.md`
 
 ## Scope Check
 
