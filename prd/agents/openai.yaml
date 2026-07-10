@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD"
+  short_description: "Turn product ideas into PRDs"
+  default_prompt: "Use $prd to turn this product idea into a PRD:"
