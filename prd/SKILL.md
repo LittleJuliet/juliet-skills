@@ -1,6 +1,6 @@
 ---
 name: prd
-description: Collaboratively refine a product manager's non-technical product idea into a standard PRD document and write the final result to docs/tmp/prd.md. Use when the user asks to turn an idea into a PRD without technical discussion.
+description: Collaboratively refine a product manager's non-technical product idea into a standard PRD document. Use when the user asks to turn an idea into a PRD without technical discussion.
 ---
 
 # PRD
