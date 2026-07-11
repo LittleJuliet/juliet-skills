@@ -1,4 +1,0 @@
-interface:
-  display_name: "Research Grilling"
-  short_description: "Research first, then clarify requirements"
-  default_prompt: "Use $research-grilling to research this project and grill me until the requirement is clear."
