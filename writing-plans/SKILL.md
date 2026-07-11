@@ -154,4 +154,4 @@ If you find issues, fix them inline. No need to re-review — just fix and move 
 
 After saving the plan, announce:
 
-**"Plan complete and saved to `docs/superpowers/plans/<filename>.md`.**
+**"Plan complete and saved to `<root-dir>/docs/<feature-name>/plan.md`.**
